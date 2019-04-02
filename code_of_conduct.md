@@ -45,6 +45,8 @@ The hours that members of the lab choose to work is up to them. We are each welc
 
 Lab members are welcome to work flexibly for any reason, this includes working remotely. All lab members are encouraged to attend our weekly lab meeting (which can be done remotely) and to participate to any lab activities. It is the policy of the Poisot Lab that every member is already self-motivated and may choose to deviate from a traditional 9 to 5 day in order to meet our collective goals.
 
+The lab policy on self-care / mental health days is: take them as you need, no questions asked.
+
 **If you experience any challenges related to flexible working within the lab** please contact [Timothée Poisot](mailto:timothee.poisot@umontreal.ca). All communication will be treated as confidential.
 
 > The material in this code of conduct is derived from "[Bahlai Lab Project Management](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md)" by Dr. Christie Bahlai and the Bahlai lab team, itself derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Poisot Lab Code of conduct is licensed under CC BY 4.0 by Dr. Timothée Poisot.
